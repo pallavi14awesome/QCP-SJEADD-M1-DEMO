@@ -12,5 +12,12 @@ public class Democlass
 	{
 		System.out.println("hello");
 	}
+	
+	public void read()
+	{
+		System.out.println("reading");
+	}
+	
+	
 
 }
