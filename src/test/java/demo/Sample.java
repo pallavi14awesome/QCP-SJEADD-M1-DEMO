@@ -10,7 +10,14 @@ public class Sample
 	public void sampletest()
 		{
 			System.out.println("bye");
+
 			System.out.println("pallavi");
+
+			
+			System.out.println("hiibye");
+		
+			
+
 		}
 	
 
